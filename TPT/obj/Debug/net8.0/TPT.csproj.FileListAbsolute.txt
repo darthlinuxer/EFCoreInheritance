@@ -136,3 +136,4 @@ C:\Users\chave\dev\EFCoreHierarchy\tpt\obj\Debug\net8.0\refint\TPT.dll
 C:\Users\chave\dev\EFCoreHierarchy\tpt\obj\Debug\net8.0\TPT.pdb
 c:\Users\chave\dev\EFCoreHierarchy\tpt\obj\Debug\net8.0\TPT.genruntimeconfig.cache
 c:\Users\chave\dev\EFCoreHierarchy\tpt\obj\Debug\net8.0\ref\TPT.dll
+C:\Users\chave\dev\EFCoreHierarchy\tpt\obj\Debug\net8.0\TPT.sourcelink.json

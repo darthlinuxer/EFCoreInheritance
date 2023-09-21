@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wmnMj297kRdiEpsA7X/M58if+m1eWWazVf9Moitt+aExn6a9vIPGixzK5LILeuiz0T+lNTF2gnmkA3PfWaz5wQ==",
+  "dgSpecHash": "VBrhPtaLnhwltwjpW9bB1mA4b3nlWF40FghLo5E6MPDwPg6D8PRUJCWzz2ICD2y4fIS+XWis7ha4F6nSAM+MZQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\chave\\dev\\EFCoreHierarchy\\tph\\TPH.csproj",
+  "projectFilePath": "c:\\Users\\chave\\dev\\EFCoreHierarchy\\tph\\TPH.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\chave\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\chave\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.10\\microsoft.data.sqlite.core.7.0.10.nupkg.sha512",

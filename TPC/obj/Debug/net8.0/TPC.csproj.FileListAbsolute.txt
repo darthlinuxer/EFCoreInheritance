@@ -67,3 +67,4 @@ C:\Users\chave\dev\EFCoreHierarchy\TPC\obj\Debug\net8.0\refint\TPC.dll
 C:\Users\chave\dev\EFCoreHierarchy\TPC\obj\Debug\net8.0\TPC.pdb
 C:\Users\chave\dev\EFCoreHierarchy\TPC\obj\Debug\net8.0\TPC.genruntimeconfig.cache
 C:\Users\chave\dev\EFCoreHierarchy\TPC\obj\Debug\net8.0\ref\TPC.dll
+C:\Users\chave\dev\EFCoreHierarchy\tpc\obj\Debug\net8.0\TPC.sourcelink.json

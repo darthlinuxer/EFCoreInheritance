@@ -67,3 +67,4 @@ C:\Users\chave\dev\EFCoreHierarchy\TPH\obj\Debug\net8.0\refint\TPH.dll
 C:\Users\chave\dev\EFCoreHierarchy\TPH\obj\Debug\net8.0\TPH.pdb
 C:\Users\chave\dev\EFCoreHierarchy\TPH\obj\Debug\net8.0\TPH.genruntimeconfig.cache
 C:\Users\chave\dev\EFCoreHierarchy\TPH\obj\Debug\net8.0\ref\TPH.dll
+C:\Users\chave\dev\EFCoreHierarchy\tph\obj\Debug\net8.0\TPH.sourcelink.json
